@@ -108,13 +108,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Thank you for checking out the Phoenix Late-Show API! We hope you find it useful and engaging. If you have any questions or feedback, please feel free to reach out! 😊
 
 
-### Key Features of the README
-- **Engaging Introduction:** Clearly states the purpose of the project.
-- **Structured Sections:** Organized content with a table of contents for easy navigation.
-- **Installation Instructions:** Detailed steps for setting up the project.
-- **API Endpoints:** Clearly outlined for quick reference.
-- **Usage Examples:** Practical commands to demonstrate how to interact with the API.
-- **Contributing Guidelines:** Encouragement for others to contribute with clear steps.
+
 
 
 
